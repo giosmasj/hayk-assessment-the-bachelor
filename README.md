@@ -124,7 +124,7 @@ below to solve this one.
    return a counter of the number of contestants who are from that hometown.
   
     * How will you keep track of contestants from a particular hometown? Think
-      back to our looping lessons in which we set a counter variable equal to 0
+      back to our looping lessons in which set a counter variable equal to 0
       and incremented that counter under certain conditions.
 
 4. Build a method `get_occupation`, that takes in two arguments––the data hash
